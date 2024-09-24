@@ -24,7 +24,9 @@ classifier = DecisionTreeClassifier(criterion='log_loss', random_state=0)
 classifier.fit(X_train, y_train)
 
 # Streamlit UI
-st.title("Product Purchase Prediction")
+
+st.title("AdInsights AI ")
+st write("Harness AI to Know Your Audience and Predict Purchases with Every Ad.")
 
 # Input fields
 age = st.number_input("Enter Age", min_value=18, max_value=100, value=30)
