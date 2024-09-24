@@ -1,7 +1,7 @@
 
-# 📊 Product Purchase Prediction Model
+# 📊 AdInsights AI
 
-This repository contains a **Product Purchase Prediction Model** built using a **Decision Tree Classification** algorithm. The model predicts whether a customer will purchase a product based on features like user behavior and demographics.
+This repository contains a **AdInsights AI** built using a **Decision Tree Classification** algorithm. The model predicts whether a customer will purchase a product based on features like user behavior and demographics.
 
 ## 🌟 Overview
 
