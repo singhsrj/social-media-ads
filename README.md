@@ -1,32 +1,37 @@
-#Product Purchase Prediction Model
 
-This repository contains a Product Purchase Prediction Model built using a Decision Tree Classification algorithm. The model predicts whether a customer will purchase a product based on various features such as user behavior and demographics.
+# 📊 Product Purchase Prediction Model
 
-#Overview
+This repository contains a **Product Purchase Prediction Model** built using a **Decision Tree Classification** algorithm. The model predicts whether a customer will purchase a product based on features like user behavior and demographics.
 
-The goal of this project is to predict product purchases using customer data. The Decision Tree Classification algorithm was chosen due to its interpretability and efficiency.
+## 🌟 Overview
 
-#Dataset
+The goal of this project is to **predict product purchases** using customer data. The **Decision Tree Classification** algorithm was chosen for its **interpretability** and **efficiency**.
 
-The dataset used for this model consists of customer attributes like age and salary.
-The data was preprocessed to handle missing values, normalize features, and create the training/test splits.
+## 📁 Dataset
 
-#Model
+- The dataset includes customer attributes such as **age** and **salary**.
+- Data preprocessing steps include handling missing values, normalizing features, and creating **training/test splits**.
 
-Algorithm: Decision Tree Classification
-Evaluation: Metrics like accuracy and confustion matrix are used to evaluate the model.
+## 🧠 Model
 
+- **Algorithm**: Decision Tree Classification 🌳
+- **Evaluation**: The model is evaluated using metrics like **accuracy** and the **confusion matrix**.
 
-#Installation
-Clone the repository:
-git clone git clone https://github.com/singhsrj/social-media-ads.git
-Install dependencies:
-pip install -r requirements.txt
+## ⚙️ Installation
 
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/singhsrj/social-media-ads.git
+   ```
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
+## 📈 Results
 
-Results
-The model achieved an accuracy of 91% on the test set.
+- The model achieved an **accuracy of 91%** on the test set 🎯.
 
-Contributing
-Contributions are welcome! Please submit a pull request or open an issue for any changes
+## 🤝 Contributing
+
+Contributions are welcome! Please submit a **pull request** or open an **issue** for any changes.
