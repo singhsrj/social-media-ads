@@ -27,6 +27,7 @@ classifier.fit(X_train, y_train)
 
 st.title("AdInsights AI ")
 st.write("Harness AI to Know Your Audience and Predict Purchases with Every Ad.")
+st.write("The Model uses Decision Tree Classfication Algorithm ")
 
 # Input fields
 age = st.number_input("Enter Age", min_value=18, max_value=100, value=30)
